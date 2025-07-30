@@ -13,13 +13,17 @@ Features
  ----
 
 Tech Stack
+
 React
 qrcode (for generating QR code data URLs)
 CSS (for UI styling)
 
-
+----
 
 📸 Preview
 <img width="953" height="470" alt="Image" src="https://github.com/user-attachments/assets/d47d6193-120b-4d63-a30d-076a5a4958db" />
+
+
+<img width="342" height="391" alt="Image" src="https://github.com/user-attachments/assets/1dd7015a-d2f4-4c59-af7a-e08636596040" />
 
 
